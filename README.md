@@ -5,3 +5,5 @@ EmporiUm is a growing student bookstore chain that sells textbooks, tech gear, a
 This project focuses on analyzing and comparing sales performance between two assigned territories to help the retail marketing team better understand how each territory is performing. By examining revenue, product trends, customer behavior, and overall sales activity, the goal is to identify opportunities to strengthen marketing strategy and improve future sales outcomes.
 
 All analysis is presented in a detailed Jupyter Notebook that walks through the full process step‑by‑step, including data exploration, cleaning, merging, and visualization. The notebook also includes clear insights supported by charts and visual summaries to help the marketing manager make informed decisions based on the findings
+
+I have attached the video link - https://1drv.ms/v/c/492696d822e46906/IQDNOf67faneT7End8BqPfCRAcZ_qEPyHUxexWwNw7kZlz0?e=eF5FD2
